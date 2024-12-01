@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dwi Candra Andika</h1>
 <h3 align="center">A passionate backend developer from Indonesia</h3>
 
-- 🌱 I’m currently learning **Go, TypeScript**
+- 🌱 I’m currently learning **Go, TypeScript, Laravel**
 
 - 📫 How to reach me **dwicandraandika4@gmail.com**
 
