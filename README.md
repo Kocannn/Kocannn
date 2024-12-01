@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dwi Candra Andika</h1>
 <h3 align="center">A passionate backend developer from Indonesia</h3>
+<h4 align="center">Undergraduate student of Computer Science at Tadulako University</h4>
 
 - 🌱 I’m currently learning **Go, TypeScript, Laravel**
 
